@@ -1,0 +1,12 @@
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\bin\Debug\net7.0\TwistedFizzBuzz_Lib.deps.json
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\bin\Debug\net7.0\TwistedFizzBuzz_Lib.dll
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\bin\Debug\net7.0\TwistedFizzBuzz_Lib.pdb
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\TwistedFizzBuzz_Lib.csproj.AssemblyReference.cache
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\TwistedFizzBuzz_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\TwistedFizzBuzz_Lib.AssemblyInfoInputs.cache
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\TwistedFizzBuzz_Lib.AssemblyInfo.cs
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\TwistedFizzBuzz_Lib.csproj.CoreCompileInputs.cache
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\TwistedFizzBuzz_Lib.dll
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\refint\TwistedFizzBuzz_Lib.dll
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\TwistedFizzBuzz_Lib.pdb
+C:\Users\getas\ProjectFizzBuzz\TwistedFizzBuzz_Lib\obj\Debug\net7.0\ref\TwistedFizzBuzz_Lib.dll
